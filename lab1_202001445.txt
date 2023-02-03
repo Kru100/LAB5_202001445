@@ -1,0 +1,49 @@
+﻿Patel Krunal Maheshbhai
+202001445
+LAB 1
+
+
+Q-1 : 
+Functional requirements : 
+* The sign up/ log in facilities for both the administratives as well as the users of LIS. (Students and employees).
+* Searching for a book by the name of the book, author name or subject related to it. Also browsing.
+* The staff can have a record panel to see which book is available.
+* An administration can add the new books and if they want to off shelf the book then they can cancel it out from the record.
+* A gentle reminder for the user to return the book. 24 hours prior to it.
+* If a user wants to extend the date of return, he can ask for permission from the administration. 
+* A user can have a look at which book is available and which is not, if available then he/she can issue the book.
+* For non-members, they can only see which book is there in the library, they don’t have the issue or return options.
+* The staff can have the list of members which have not issued the books before the due time or date.
+* A logout for members.
+* If staff leave the job, then administration has the authority to remove it and if new staff come then to add him/her.
+
+
+
+
+
+
+Non-functional requirements:
+* Security, the administration’s passwords can’t  be revealed. Same goes for members and staff.
+* The issue and return of books are only accessible through the systems which are running on the LAN.
+* Consistency of the record.
+* Reliability about the book.
+
+
+
+
+Q-2:
+
+
+Scope : The software will recognize some specific sounds by the intensity of it, also it will estimate the measure of the distance of that object from the user on the basis of frequency of the sound. That will alert the user by vibrating the phone on a certain pattern so he can sense it.
+        The limit of the system is that it will not be able to recognize the sound if the place is so noisy. 
+
+
+Features : It will detect the sound and measure the distance, speed etc the object. 
+* It will have the record of some frequency or voices which the user wants to add in, so it can recognize that.
+* System will generate a unique pattern of vibrations so that the user can recognize it.
+
+
+Non-functional requirements : 
+* Reliable
+* It has to be a real time and have to send the alert immediately
+* System has to be responsive as soon as it gets the specified frequency.
